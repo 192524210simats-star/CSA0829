@@ -1,0 +1,16 @@
+# Create a sample list
+my_list = [1, 2, 3, "apple", "banana", 4.5]
+
+# Print the original list and its type
+print(f"Original list: {my_list}")
+print(f"Type of original list: {type(my_list)}")
+
+# Convert the list to a tuple using the tuple() function
+my_tuple = tuple(my_list)
+
+# Print the converted tuple and its type
+print(f"\nConverted tuple: {my_tuple}")
+print(f"Type of converted tuple: {type(my_tuple)}")
+
+OUT PUT 
+=== Code Execution Successful ===
